@@ -1,0 +1,9 @@
+---
+title: "Visualize the output dataset for COVerAGE-DB"
+---
+this is a notebook 
+```{r, include = FALSE}
+
+source_1 <- "COVerAGE-DB: A database of COVID-19 cases and deaths by age (https://osf.io/mpwjq/)"
+
+```
